@@ -1,0 +1,19 @@
+nav{
+    background-color: #072c52;
+    width: 100%;
+    color:  #bc6461;
+    text-transform: uppercase;
+    font-max-size: large;
+    font-weight: bold;
+ }
+
+ul.menuItems {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menuItems li {
+    display: block;
+    list-style: none;
+}
